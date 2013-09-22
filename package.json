@@ -1,0 +1,9 @@
+{
+  "name": "tdjs",
+  "version": "0.0.1",
+  "description": "A presentation on test driven javascript development",
+  "main": "index.js",
+  "repository": "",
+  "author": "Nephi Wright",
+  "license": "MIT"
+}
