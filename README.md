@@ -1,2 +1,0 @@
-jstd_presentation
-=================
