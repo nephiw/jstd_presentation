@@ -1,20 +1,21 @@
 {
-    "name":"jstd_presentation",
-    "version":"0.0.1",
-    "description":"A presentation on client driven javascript development",
-    "main":"index.js",
-    "private":true,
-    "repository":"https://github.com/nephiw/jstd_presentation.git",
-    "author":"Nephi Wright",
-    "license":"MIT",
-    "dependencies":{
-        "express":"3.4.0"
-    },
-    "devDependencies":{
-        "grunt":"~0.4.1",
-        "grunt-contrib-jshint":"~0.6.4",
-        "grunt-contrib-nodeunit":"~0.2.0",
-        "grunt-contrib-qunit":"~0.2.2",
-        "grunt-contrib-watch":"~0.5.3"
-    }
+  "name": "jstd_presentation",
+  "version": "0.0.1",
+  "description": "A presentation on client driven javascript development",
+  "main": "index.js",
+  "private": true,
+  "repository": "https://github.com/nephiw/jstd_presentation.git",
+  "author": "Nephi Wright",
+  "license": "MIT",
+  "dependencies": {
+    "express": "3.4.0",
+    "underscore": "~1.5.2"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-qunit": "~0.2.2",
+    "grunt-contrib-watch": "~0.5.3"
+  }
 }
